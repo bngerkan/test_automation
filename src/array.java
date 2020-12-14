@@ -4,6 +4,7 @@ public class array {
         int i=0;
         while(i<nums.length){
             System.out.println(nums[i]);
+            i++;
         }
     }
 }
