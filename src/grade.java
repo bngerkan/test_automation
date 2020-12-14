@@ -18,7 +18,7 @@ public class grade {
             case "D":
                 System.out.println("Need improvement");
                 break;
-            case "F": // default :
+            case "F": // or default :
                 System.out.println("Failed");
                 break;
 
