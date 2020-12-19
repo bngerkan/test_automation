@@ -9,3 +9,5 @@ public class whileloop {
         System.out.println("The sum of the first 10 numbers : "+ total );
     }
 }
+
+
